@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The copy of a letter sent from a person of much honour and reason, accidentally present at that hot encounter betwixt the forces under the command of the Lord Goring, Earle of Norwich, and Sir Charles Lucas of the Royall Party, and those under the command of the Lord Fairfax of the Parliaments party, on the 13. of Iune, in the suburbs of Colchester.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87268</idno>
+            <idno type="STC">Wing I2</idno>
+            <idno type="STC">Thomason E448_15</idno>
+            <idno type="EEBO-CITATION">99864430</idno>
+            <idno type="PROQUEST">99864430</idno>
+            <idno type="VID">161835</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87268)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161835)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 71:E448[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The copy of a letter sent from a person of much honour and reason, accidentally present at that hot encounter betwixt the forces under the command of the Lord Goring, Earle of Norwich, and Sir Charles Lucas of the Royall Party, and those under the command of the Lord Fairfax of the Parliaments party, on the 13. of Iune, in the suburbs of Colchester.</title>
+                  <author>C. I.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare, 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Signed at end: C. I.</note>
+                  <note>Annotation on Thomason copy: "June 19th London".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Norwich, George Goring, --  Earl of, 1583?-1663 --  Early works to 1800.</term>
+               <term>Colchester (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161835:1" rendition="simple:additions"/>
+            <p>The Copy of A LETTER Sent from a perſon of much Honour and Reaſon, accidentally preſent at that hot encounter betwixt the Forces under the Com<g ref="char:EOLhyphen"/>mand of the Lord <hi>Goring,</hi> Earle of <hi>Nor<g ref="char:EOLhyphen"/>wich,</hi> and Sir <hi>Charles Lucas</hi> of the ROYALL Party,</p>
+            <p>And thoſe under the command of the Lord <hi>Fairfax</hi> of the Parliaments party, on the 13. of <hi>Iune,</hi> in the Suburbs of COLCHESTER.</p>
+            <p>Printed in the yeare, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:161835:2"/>
+            <pb n="1" facs="tcp:161835:2"/>
+            <head>The Copy of a Letter ſent from a perſon of much Ho<g ref="char:EOLhyphen"/>nour and Reaſon, accidentally preſent at that hot encounter betwixt the Forces under the command of the Lord <hi>Goring,</hi> Earle of <hi>Norwich,</hi> and Sir <hi>Charles Lucas,</hi> of the Royall party, and thoſe under the command of the Lord <hi>Fairfax,</hi> of the Parliaments party, on the <hi>1,</hi> of <hi>June,</hi> in the Suburbs of <hi>Col<g ref="char:EOLhyphen"/>cheſter.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THough I ever found a ſtrong averſion in my genius from becoming a mandrake, and groa<g ref="char:EOLhyphen"/>ning blood, ruine and death; and have beene ſo happily exempted from this heavy ſtorme of ca<g ref="char:EOLhyphen"/>lamity and deſolation, which this our bloudy inte<g ref="char:EOLhyphen"/>ſtine warre hath ſhowred downe upon three King<g ref="char:EOLhyphen"/>domes, that I have hithert<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> lived ſafe both in the Protection of my ſolitude and neutrality; yet being by the fortune of ſome buſineſſe with the Lord <hi>Fair<g ref="char:EOLhyphen"/>fax</hi> at that inſtant, an eye witneſſe of the moſt re<g ref="char:EOLhyphen"/>markable paſſages in the hot and bloudy encounter betwixt the Forces of the Lord <hi>Goring,</hi> Sir <hi>Charles Lucas</hi> Sir <hi>William Compton,</hi> Sir <hi>George Liſle,</hi> and o<g ref="char:EOLhyphen"/>thers of the Royall party, and of the Lord <hi>Fairfax,</hi>
+               <pb n="2" facs="tcp:161835:3"/>I conceived my ſelfe obliged by the duty of friend<g ref="char:EOLhyphen"/>ſhip, to give you a ſhort but faithfull account of my obſervation, aſſuring my ſelfe, that by how much the leſſe intereſt I have in eithers engagement or ſuc<g ref="char:EOLhyphen"/>ceſſe, the more credit you cannot but in juſtice give to my relation.</p>
+            <p>On Tueſday the 13. of <hi>Iune</hi> in the afternoon, the Lord <hi>Fairfax</hi> being marched near to <hi>Colcheſter,</hi> ſate down with all his field Officers at a Councel of War, within half a mile of the town: what their determi<g ref="char:EOLhyphen"/>nation was though I was removed at too great a di<g ref="char:EOLhyphen"/>ſtance to hear the Vote, yet the iſſue encourages my conjecture, that it was to fall on that evening. For immediately the Army was drawn out into a ſpacious <hi>Campania</hi> enriched with a luxurious crop of wheat. Here<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſtood divided betwixt the pleaſure of ſo gal<g ref="char:EOLhyphen"/>lant an object as an Army complete both in per<g ref="char:EOLhyphen"/>ſons and diſcipline, and the ſorrow of beholding the ſpoile of that rich bleſſing which is ſo eſſentiall to the life of man, that the ſame bounty that gave it, is pleaſed to call the <hi>ſtaffe of bread.</hi>
+            </p>
+            <p>No ſooner was the Army thus in a full body, but there followed ſo deep and unbroken a ſilence for the ſpace of half an hour, that midnight ſeems thun<g ref="char:EOLhyphen"/>der if compared to it, there appearing no noiſe, but what every man heard from the violent motion of his own heart. Had ſome <hi>augur</hi> been there, he might have ſafely foretold, that many of them ſhould ere many minutes be received into an eternall ſilence. This <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>alme diſſolved, ſome officers of the Army were ſent to ſurvey the Suburbs; among theſe Col. <hi>Bakſter</hi> returning, told the Generall, that if he would
+<pb n="3" facs="tcp:161835:3"/>be pleaſed to let him have a party of 500 comman<g ref="char:EOLhyphen"/>ded men, he would attempt the great ſtreet in the Suburbs, which on reaſon he conceived ſaul<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>able. This motion was embraced, ſeconded, and put in ex<g ref="char:EOLhyphen"/>ecution, but with ſo fatall a deſtruction of the grea<g ref="char:EOLhyphen"/>teſt number of the aſſiſtants; the Defendants (which were men whoſe Martiall education and experience ennobles them as much as their high births and plen<g ref="char:EOLhyphen"/>tifull fortunes) at the ſame moment powring in whole vollies of cannon and muſquet ſhot ſo levell in the face of the enemy, that there ſeemed to fol<g ref="char:EOLhyphen"/>low as many wounds as ſhots, and as many deaths as wounds. However, the deſigne was purſued with 500. more, who receiving the ſame welcome their bold fellowes had, were put not onely to a ſtand, but ſome confuſed retreat, or repulſe, call it which you pleaſe: which the General perceiving, drew the whole Army to engage in the action, driving on the foot with the Horſe ſo violently, that I never read of any preſident that may parallel him, but the furious <hi>Ba<g ref="char:EOLhyphen"/>jazet</hi> the Second, who uſed to force on his ſouldiers on their enemies ſwords, valuing men no better then ſtones to dead the ſhot, and blocks to fill up ditches for the living to paſſe over. Had the great maſters of valour, the Romanes been ſpectators of this acti<g ref="char:EOLhyphen"/>on, they would have frowned on the Commanders, and called them rather raſh then valiant. The towne husbanding this opportunity, diſcharged ſuch thicke peales of great and ſmall ſhot on them, that I beheld amongſt them that horrid ſlaughter of men and horſe, which in my melancholy lecture of bloudy battles I ſaw in fancy, with ſo much compaſſion, that
+<pb n="4" facs="tcp:161835:4"/>could not but drop ſome tears to embalm the ſlaine. But how penſive this blacke ſight made me, I ſhall leave your reaſon to judge, when you have conſidered the horror of bloud ſpent in fury, and the melan<g ref="char:EOLhyphen"/>choly complexion of my mind enclined to hold a ſy<g ref="char:EOLhyphen"/>pathy with all ſorrow that my ſenſes communicate to me. Notwitſtanding this confuſion and butche<g ref="char:EOLhyphen"/>ry of the common ſouldiers, who had ſome Officers fell with them to conduct them into the other world, the Generall conſtant to his purpoſe, and more in love with his former good fortun, then preſent ſafety, goaded up his men on the mouth of the Canon with ſuch fury (pardon me if I call it not valour ſince it wanted wiſdom) that the Defendants were forced to deſert the Suburbs, and Retreat ſpeedily into the City, leaving without the gates about 350 of their choiceſt men, whoſe habit and gallant deportment in their diftreſſe and impriſonment ſpoke them Gentlemen to the moſt enraged and malitious of their Enemies. For according to the cuſtome of Warre, being ex<g ref="char:EOLhyphen"/>amined by the Generall concerning the number, ſtrength, reſolution and defences of their friends within the Town, they ſcorned to return any other Anſwer, but that, though being Priſoners and at mercy, they would ſoo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er embrace the worſt of deaths, the anger and wit of their Foes could con<g ref="char:EOLhyphen"/>trive, then reveale a title of any thing that might prejudice their friends, or ſecure their Adverſaries. Thus long Victory ſtood hovering unreſolved on whoſe head to place her Garland. The Generall thus poſſeſſed of the Suburbs, the gallant priſoners were made a prey to the common Souldiers, who
+<pb n="5" facs="tcp:161835:4"/>exchanged their Habits, but could not ſo diſguiſe them, but the bravery of their minds was plainly legible to every eye, that was acquainted with the characters of vertue. The next buſineſſe was the placing of Guards on either part; the Parliament Porces in that Street they had ſo dearly won, the Royall in the Town they had ſo bravely defended; for the darkneſſe of night forbad any further Action for the preſent. But this remora was ſoon removed by an accident (for whether it was deſign or fortune is yet to me uncertain) the firing of two or three houſes in the Suburbs. For by the light of the flames, the Town diſcovering where and in what Poſture the Enemy lay, let fly their Cannon and Muſquet upon them with ſuch well directed fury, that I may boldly affirm, that among ſuch a number of men and horſe, there never was ſo bloody an Execution: Here you might have ſeen the limbs of men, horſes, armes, fire, and duſt confuſed together in one horrid Chaos. The Lord <hi>Fairfax</hi> ſo farre engaged himſelfe both to encourage and relieve his men in this diſtreſſe, that a Cannon ſhot from the Town ſtrock him blind with the duſt it raiſed, for halfe an houre.</p>
+            <p>The Horſe thus brought on in the mouth of de<g ref="char:EOLhyphen"/>ſtruction by the example more then the command of their Generall ruſht on ſo farre, that three whole Troopes brought beyond all poſſibility of Retreat, were all taken Priſoners, and the reſt ſo ſhattered, that in a great conſuſion they ſhogd of to the ſame place, where this fatall deſign was concluded on by the Councell of Warre. And thus was this violent Feaver for the preſent cured by the moſt prodigall
+<pb n="6" facs="tcp:161835:5"/>effuſion of blood, that ever Hiſtory tells us was drawn forth betwixt ſuch ſmall Parties in ſo few minutes. For on an exact ſurvey of the ſlaine on <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oth ſides, my Arithmetick accounted no leſſe then 1500 dead bodies. The rehearſall of ſome of the premiſes, will ſatisfie your curioſity of knowing on which ſide the greateſt number fell; for the nature of the action tells us that the Aſſailants could not but looſe ten for one. Beſides this irrepatable loſſe of ſtout and experienced Souldiers (whoſe lives providently ſpent on a Forraign Enemy might have revived the Ancient glory of our Nation) and ſome faithfull Officers inſtructed in the principles and Diſcipline of their Generall, I cannot but diſco<g ref="char:EOLhyphen"/>ver my obſervation of ſome cloud that from hence is riſen to ecclipſe the glory of the Lord <hi>Fair<g ref="char:EOLhyphen"/>fax,</hi> it being the firſt remarkable check his fortune ever received. Thus Sir, you have a true and impartiall draught of this action according to the beſt ob<g ref="char:EOLhyphen"/>ſervaton of</p>
+            <closer>
+               <signed>Your humble Servant, <hi>C.I.</hi>
+               </signed>
+               <dateline>
+                  <hi>Chenceford</hi> 
+                  <date>the 15. <hi>of Iune,</hi> 1648.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
